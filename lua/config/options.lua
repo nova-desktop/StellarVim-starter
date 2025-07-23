@@ -1,0 +1,1 @@
+-- Put any vim.* options in this file, they get loaded before any plugins
