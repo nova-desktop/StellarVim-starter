@@ -22,6 +22,11 @@ require("lazy").setup({
     lazy = false,
     version = false,
   },
+  dev = {
+    path = "~/src/nova-desktop",
+    patterns = { "nova-desktop" },
+    fallback = false,
+  },
   install = { colorscheme = { "tokyonight", "habamax" } },
   checker = {
     enabled = true,
