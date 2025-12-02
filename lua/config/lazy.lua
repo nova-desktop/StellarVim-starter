@@ -23,7 +23,7 @@ require("lazy").setup({
     version = false,
   },
   dev = {
-    path = "~/src/nova-desktop",
+    path = "~/src/github.com/nova-desktop",
     patterns = { "nova-desktop" },
     fallback = false,
   },
